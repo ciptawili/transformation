@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_customer_list</name>
+   <tag></tag>
+   <elementGuidId>9f7e4b2b-5d0f-4efd-8965-4bbdb4a6c1e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe[@title='_hjSafeContext']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_hjSafeContext_</value>
+      <webElementGuid>f7bb910e-5df7-4f3b-b8f5-122ef93131a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>_hjSafeContext</value>
+      <webElementGuid>7edf8489-d7f2-446d-9b62-55c66558fda6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
