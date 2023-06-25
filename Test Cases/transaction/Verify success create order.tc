@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify success create order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee08ac6b-cc15-473f-9d7e-0bdc8ebea618</testCaseGuid>
+</TestCaseEntity>
